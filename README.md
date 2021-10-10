@@ -37,3 +37,11 @@ Computational art using empathetic Artificial Intelligence and dynamical systems
     * https://osf.io/qubhy/
 	
 	
+* Installation
+
+    * pip install -r requirements.txt
+
+
+* Manuscript and citation
+
+    * Forthcoming
