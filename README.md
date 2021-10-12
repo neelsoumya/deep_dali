@@ -25,6 +25,17 @@ Computational art using empathetic Artificial Intelligence and dynamical systems
 
 		* python3 deep_dream.py deepdali.jpg result
 
+
+* Installation
+
+    * pip install -r requirements.txt
+
+
+
+* Other resources
+
+     * https://sandspiel.club/  
+
 * Paper is at:
 
 	* https://osf.io/wp86n/
@@ -37,11 +48,6 @@ Computational art using empathetic Artificial Intelligence and dynamical systems
     * https://osf.io/qubhy/
 	
 	
-* Installation
-
-    * pip install -r requirements.txt
-
-
 * Manuscript and citation
 
     * Forthcoming
