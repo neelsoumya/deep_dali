@@ -1,8 +1,31 @@
 # deep_dali_waves
 
+## Introduction
+
 Computational art using empathetic Artificial Intelligence and dynamical systems.
 
+## Installation
 
+The Python programming language can be installed from 
+
+	https://www.python.org/downloads/
+
+The dependencies can then be installed by typing the following at the command line:
+
+```r
+pip install -r requirements.txt
+```
+
+The NetLOGO language can then be installed from
+
+	https://ccl.northwestern.edu/netlogo/download.shtml
+
+Alternatively a version of NetLOGO that can be run from the web browser is available here:
+
+	http://netlogoweb.org/
+
+
+## Files
 
 * Deep dream code for waves generated from a B-Z reaction using NetLOGO
 
@@ -36,6 +59,9 @@ Computational art using empathetic Artificial Intelligence and dynamical systems
 
      * https://sandspiel.club/  
 
+
+## Manuscript
+
 * Paper is at:
 
 	* https://osf.io/wp86n/
@@ -51,3 +77,8 @@ Computational art using empathetic Artificial Intelligence and dynamical systems
 * Manuscript and citation
 
     * Forthcoming
+
+## Contact
+
+Soumya Banerjee
+
