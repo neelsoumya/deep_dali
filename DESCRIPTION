@@ -1,0 +1,11 @@
+Package: deep_dali
+Type: Package
+Title: deep_dali: Outreach and patient and public involvement (PPI) resources for explaining Artificial Intelligence
+Version: 1.0
+Imports: bookdown,
+          rmarkdown,
+          knitr,
+          tinytex,
+          ggplot2,
+          sqldf,
+          shiny
