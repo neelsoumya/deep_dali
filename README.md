@@ -25,7 +25,7 @@ Alternatively a version of NetLOGO that can be run from the web browser is avail
 	http://netlogoweb.org/
 
 
-## Files
+## Files and Reesources
 
 * Deep dream code for waves generated from a B-Z reaction using NetLOGO
 
@@ -59,6 +59,14 @@ Alternatively a version of NetLOGO that can be run from the web browser is avail
 
      * https://sandspiel.club/  
 
+
+## Usage
+
+Clone or download the repository. The type the following command:
+
+```r
+python3 deep_dream.py deepdali.jpg result
+```
 
 ## Manuscript
 
