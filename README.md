@@ -25,7 +25,15 @@ Alternatively a version of NetLOGO that can be run from the web browser is avail
 	http://netlogoweb.org/
 
 
-## Files and Reesources
+## Usage
+
+Clone or download the repository. The type the following command:
+
+```r
+python3 deep_dream.py deepdali.jpg result
+```
+
+## Files and Resources
 
 * Deep dream code for waves generated from a B-Z reaction using NetLOGO
 
@@ -49,24 +57,12 @@ Alternatively a version of NetLOGO that can be run from the web browser is avail
 		* python3 deep_dream.py deepdali.jpg result
 
 
-* Installation
-
-    * pip install -r requirements.txt
-
-
-
 * Other resources
 
      * https://sandspiel.club/  
 
 
-## Usage
 
-Clone or download the repository. The type the following command:
-
-```r
-python3 deep_dream.py deepdali.jpg result
-```
 
 ## Manuscript
 
