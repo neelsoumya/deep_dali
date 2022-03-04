@@ -27,11 +27,18 @@ Alternatively a version of NetLOGO that can be run from the web browser is avail
 
 ## Usage
 
-Clone or download the repository. The type the following command:
+Clone or download the repository.
+
+```r
+git clone https://github.com/neelsoumya/deep_dali
+```
+
+Then type the following command:
 
 ```r
 python3 deep_dream.py deepdali.jpg result
 ```
+
 
 ## Files and Resources
 
