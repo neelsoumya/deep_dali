@@ -10,6 +10,12 @@ The Python programming language can be installed from
 
 	https://www.python.org/downloads/
 
+Clone or download the repository.
+
+```r
+git clone https://github.com/neelsoumya/deep_dali
+```
+
 The dependencies can then be installed by typing the following at the command line:
 
 ```r
@@ -27,13 +33,8 @@ Alternatively a version of NetLOGO that can be run from the web browser is avail
 
 ## Usage
 
-Clone or download the repository.
 
-```r
-git clone https://github.com/neelsoumya/deep_dali
-```
-
-Then type the following command:
+Type the following command:
 
 ```r
 python3 deep_dream.py deepdali.jpg result
