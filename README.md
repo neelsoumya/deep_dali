@@ -74,17 +74,6 @@ python3 deep_dream.py deepdali.jpg result
 
 ## Manuscript
 
-* Paper is at:
-
-	* https://osf.io/wp86n/
-
-	* banerjee, soumya. 2018. “Beauty of Life in Dynamical Systems: An Aesthetic Viewpoint of Life.” OSF Preprints. June 23. doi:10.31219/osf.io/wp86n.
-
-
-* Project is at:
-
-    * https://osf.io/qubhy/
-	
 	
 * Manuscript and citation
 
@@ -93,4 +82,6 @@ python3 deep_dream.py deepdali.jpg result
 ## Contact
 
 Soumya Banerjee
+
+
 
