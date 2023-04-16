@@ -71,8 +71,14 @@ The image has a dream-like quality and emphasizes the beauty in life and in dyna
 * Other resources
 
      * https://sandspiel.club/  
+     
+     * http://netlogoweb.org/launch#http://netlogoweb.org/assets/modelslib/Sample%20Models/Chemistry%20&%20Physics/Chemical%20Reactions/B-Z%20Reaction.nlogo
+     
+     * Talk on this topic
+     
+     * https://youtu.be/jDIt60LVyWY?t=76
 
-
+     * https://www.saganet.org/
 
 
 ## Manuscript
