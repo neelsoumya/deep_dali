@@ -3,6 +3,7 @@
 ## Introduction
 
 Computational art using empathetic Artificial Intelligence and dynamical systems.
+This can be used to understand life as we do `not` know it.
 
 ## Installation
 
