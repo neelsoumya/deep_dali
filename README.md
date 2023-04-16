@@ -34,12 +34,15 @@ Alternatively a version of NetLOGO that can be run from the web browser is avail
 ## Usage
 
 
-Type the following command:
+Type the following command at the command line:
 
 ```r
 python3 deep_dream.py deepdali.jpg result
 ```
 
+A modified `dreaming` picture will be saved as result.jpg
+
+The image has a dream-like quality and emphasizes the beauty in life and in dynamical systems.
 
 ## Files and Resources
 
