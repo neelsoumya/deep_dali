@@ -84,6 +84,9 @@ The image has a dream-like quality and emphasizes the beauty in life and in dyna
 
 ## Manuscript
 
+* Preprint
+
+	https://osf.io/m4qap/
 	
 * Manuscript and citation
 
