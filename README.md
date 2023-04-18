@@ -5,6 +5,8 @@
 Computational art using empathetic Artificial Intelligence and dynamical systems.
 This can be used to understand life as we do `not` know it.
 
+This repository has outreach and recreational mathematics activities for lay people to understand alternate views of life (life as we do `not` know it).
+
 ## Installation
 
 The Python programming language can be installed from 
