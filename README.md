@@ -92,7 +92,9 @@ The image has a dream-like quality and emphasizes the beauty in life and in dyna
 	
 * Manuscript and citation
 
-    * Forthcoming
+    * Beauty of Life in Dynamical Systems: Philosophical Musings and Resources for Students, Soumya Banerjee, Joyeeta Ghose, Tarakeswar Banerjee, Kalyani Banerjee. Journal of Humanistic Mathematics 13(2):427-444, 2023
+ 
+    * https://scholarship.claremont.edu/jhm/vol13/iss2/23/
 
 ## Contact
 
