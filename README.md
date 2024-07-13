@@ -96,9 +96,15 @@ The image has a dream-like quality and emphasizes the beauty in life and in dyna
  
     * https://scholarship.claremont.edu/jhm/vol13/iss2/23/
 
+    * A Roadmap for a Computational Theory of the Value of Information in Origin of Life Questions, Soumya Banerjee, Interdisciplinary Description of Complex Systems 14(3), 314-321, 2016 
+
+    * https://indecs.eu/2016/indecs2016-pp314-321.pdf
+
 ## Contact
 
 Soumya Banerjee
+
+sb2333@cam.ac.uk
 
 
 
